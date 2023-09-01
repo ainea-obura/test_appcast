@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="1.1.68" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>For unit test only</title>
     <item>
         <title>Version 1.1.68</title>
         <description>Bug fixes</description>
-        <pubDate>Mon, 28 Aug 2023 15:20:11 +0000</pubDate>
+        <pubDate>FRI, 1 Sep 2023 15:20:11 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=africa.hpesa.hpaysa" sparkle:version="2.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
